@@ -21,6 +21,6 @@ pip install numpy tensorflow matplotlib opencv-python scipy scikit-image
 ```
 🎯 Run the main script:
 ```sh
-python main.py
+jupyter notebook pinn_sim.ipynb
 ```
 
